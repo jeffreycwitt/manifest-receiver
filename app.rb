@@ -53,7 +53,10 @@ get '/receive' do
 		"Update failed"
 	end
 
-  
+end
 
+get '/result' do 
+	content_type :json 
+  send_file "entries.json"
 end
 	
