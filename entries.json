@@ -1,0 +1,32 @@
+{
+  "wrapper": [
+    {
+      "manifest": {
+        "manifesturl": "http://www.e-codices.unifr.ch/metadata/iiif/kba-WettF0015/manifest.json",
+        "receivedurl": "http://localhost:3000/iiif/wdr-wettf15-test/rangelist",
+        "type": "http://scta.info/iiif/wdr-wettf15/rangelist"
+      }
+    },
+    {
+      "manifest": {
+        "manifesturl": "http://www.e-codices.unifr.ch/metadata/iiif/kba-WettF0015/manifest.json",
+        "receivedurl": "http://localhost:3000/iiif/wdr-wettf15-test/rangelist",
+        "type": "http://scta.info/iiif/wdr-wettf15/rangelist"
+      }
+    },
+    {
+      "manifest": {
+        "manifesturl": "http://www.e-codices.unifr.ch/metadata/iiif/kba-WettF0015/manifest.json",
+        "receivedurl": "http://localhost:3000/iiif/wdr-wettf15-test/rangelist",
+        "type": "http://scta.info/iiif/wdr-wettf15/rangelist"
+      }
+    },
+    {
+      "manifest": {
+        "manifesturl": "http://www.e-codices.unifr.ch/metadata/iiif/kba-WettF0015/manifest.json",
+        "receivedurl": "http://localhost:3000/iiif/wdr-wettf15-test/rangelist",
+        "type": "http://scta.info/iiif/wdr-wettf15/rangelist"
+      }
+    }
+  ]
+}
